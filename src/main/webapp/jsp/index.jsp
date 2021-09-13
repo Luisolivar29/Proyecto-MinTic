@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>pagina de prueba de lucho</title>
 </head>
 <body>
 	<h1> hola mundo </h1>
