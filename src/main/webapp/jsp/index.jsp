@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1> hola mundo </h1>
+	<p>proyecto tienda grupo 6</p>
 
 </body>
 </html>
